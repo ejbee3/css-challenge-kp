@@ -1,0 +1,37 @@
+:root {
+  font-family: Roboto;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 48px;
+  margin-bottom: 0;
+}
+
+h1,
+p {
+  color: white;
+  padding-left: 50px;
+  width: 50%;
+}
+
+a {
+  text-transform: uppercase;
+  background-color: #38cfd9;
+  color: #23424a;
+  text-decoration: none;
+  padding: 0.75rem 2.5rem;
+  border-radius: 50px;
+  font-size: 21px;
+  font-weight: 700;
+  margin-left: 50px;
+}
+
+p {
+  margin-bottom: 4em;
+  max-width: 750px;
+}
+
+body {
+  background-color: #23424a;
+}
