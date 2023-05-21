@@ -1,6 +1,6 @@
 ## Responsive CSS 21 day challenge
 
-# Week 1
+### Week 1
 
 - very easy so far, but super useful, already learned the difference b/w rem and em, I always thought the R in rem meant _relative_, it means root, so rem is always the same, you can use em's for padding because no matter the font size the button will always look good
 
@@ -9,6 +9,8 @@
 - `margin: 0` stuff to get a base level of separation from elements, set the font size in the body using REM's (or pixels)
 - width percentages work off of parents, so `width : 50%` for a child will make the child 50% of the parent element
 
+### Week 2
 
+- flexbox woooo
 
 > Kevin Powell made it, very cool! [website](https://courses.kevinpowell.co/ "buy courses and stuff")
